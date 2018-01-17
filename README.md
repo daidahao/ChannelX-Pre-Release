@@ -4,7 +4,7 @@ A transient, anonymous channel-based instant communication application running o
 
 ## Important Notes
 
-This repo is no longer active as we have officially made `ChannelX`repo public. For the latest version of `ChannelX`, please refer to [ChannelX](https://github.com/daidahao/ChannelX).
+As we have officially made `ChannelX` repo public, this repo is no longer active . For the latest version of `ChannelX`, please refer to [ChannelX](https://github.com/daidahao/ChannelX).
 
 ## Latest Release
 
