@@ -2,6 +2,10 @@
 
 A transient, anonymous channel-based instant communication application running on Android.
 
+## Important Notes
+
+This repo is no longer active as we have officially made `ChannelX`repo public. For the latest version of `ChannelX`, please refer to [ChannelX](https://github.com/daidahao/ChannelX).
+
 ## Latest Release
 
 ChannelX 0.1.6 [Download](https://github.com/daidahao/ChannelX-Pre-Release/releases/download/v0.1.6/channelx-0.1.6.apk)
